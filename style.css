@@ -1,0 +1,55 @@
+body{
+  background-color:#6b6994;
+  text-align: center;
+
+}
+.top-container{
+  background-color: #d7e1d7;
+  text-align: center;
+  height: 700px;
+  font-family: 'Passions Conflict', cursive;
+  font-weight: bolder;
+
+}
+.navbar-custom {
+	background-color: #B1B1B1;
+  color: #B9A7BB;
+}
+
+
+.whitetulips{
+  max-width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding-top: 40px;
+  height: 600px;
+  border-radius:60%;
+}
+.middle-container{
+  background-color: #eae8dd;
+  text-align: center;
+  background-size: 1520px 900px;
+  width: 100%;
+  height: 600px;
+  font-family: 'Passions Conflict', cursive;
+
+}
+.text{
+  padding-top: 20px;
+  weight:200;
+}
+.text1{
+  justify-content: center;
+  padding-top: 300px;
+  color: #4CBB17;
+}
+.container-fluid{
+  font-family: 'Roboto Slab', serif;
+}
+.texte{
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+font-size: 0.8rem;
+}

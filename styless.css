@@ -1,0 +1,106 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.top-container{
+  padding-top: 50px;
+  padding-bottom: 90px;
+  background-color: #a7a486;
+  font-size: 0.6rem;
+}
+.cloud{
+  width: 25%;
+}
+#id{
+  margin-bottom: 0px;
+}
+.middle-container{
+  font-family: 'Roboto Slab', serif;
+
+}
+img{
+  border-radius:50%;
+}
+.mid{
+  text-align: left;
+  height: 300px;
+}
+.iqbal{
+
+  float: left;
+  margin: 30px 30px 30px 30px;
+
+}
+.justin{
+  float: right;
+  margin: 30px 30px 30px 30px;
+}
+.mide{
+  text-align: right;
+  height: 300px;
+}
+.adi{
+  float: left;
+  margin: 30px 30px 30px 30px;
+
+}
+.midee{
+  text-align: left;
+  height: 300px;
+}
+.anime{
+  float: right;
+  margin: 30px 30px 30px 30px;
+}
+.mideee{
+  text-align: right;
+  height: 300px;
+}
+.japan{
+  float: left;
+  margin: 30px 30px 30px 30px;
+}
+.mideeee{
+  text-align: left;
+  height: 300px;
+}
+.kinder{
+  float: right;
+  margin: 30px 30px 30px 30px;
+}
+.mi{
+  text-align: right;
+  height: 300px;
+}
+.moon{
+  width: 25%;
+}
+.bottom-container{
+  padding-top: 50px;
+  padding-bottom: 90px;
+  background-color: #122F50;
+  font-size: 0.6rem;
+  color: #CD3700;
+
+}
+.text1{
+  padding-top: 100px;
+}
+.text2{
+  padding-top: 100px;
+}
+.text3{
+  padding-top: 100px;
+}
+.text4{
+  padding-top: 100px;
+}
+.text5{
+  padding-top: 100px;
+}
+.text6{
+  padding-top: 100px;
+}
+
+h1{
+}
